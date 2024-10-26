@@ -1,0 +1,34 @@
+.all{
+    text-align: center;
+}
+.home-active{
+    color: #dd6b20; /* Orange */
+}
+
+.home-noActive{
+    color: #333; /* Dark Gray */
+}
+.home-noActive:hover{
+    background-color: #dd6b20; /* Orange */
+}
+
+.about-active{
+    color: #dd6b20; /* Orange */
+}
+
+.about-noActive{
+    color: #333; /* Dark Gray */
+}
+.about-noActive:hover{
+    background-color: #dd6b20; /* Orange */
+}
+.contact-active{
+    color: #dd6b20; /* Orange */
+}
+
+.contact-noActive{
+    color: #333; /* Dark Gray */
+}
+.contact-noActive:hover{
+    background-color: #dd6b20; /* Orange */
+}

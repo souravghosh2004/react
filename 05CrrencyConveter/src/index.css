@@ -1,0 +1,20 @@
+#root{
+   background-image: url(https://i.pinimg.com/564x/f4/04/71/f4047136eed63d88be00b61a80c00502.jpg);
+
+   /* Make it cover the entire area */
+   background-size: cover;
+ 
+   /* Center the image */
+   background-position: center;
+ 
+   /* Ensure the image doesn't repeat */
+   background-repeat: no-repeat;
+ 
+   /* Cover the entire viewport */
+   height: 100vh;
+   margin: 0;
+   display: flex;
+   justify-content: center; /* Centers horizontally */
+   align-items: center; /* Centers vertically */
+
+}

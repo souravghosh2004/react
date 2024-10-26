@@ -1,0 +1,25 @@
+.main{
+    align-items: center;
+    margin-left: 35%;
+    margin-top: 5%;
+    color: white;
+    background-color: antiquewhite;
+    padding-right: 5px;
+    height: 130px;
+    width: 550px;
+    border: 5px  solid black;
+    border-radius: 50px;
+}
+.mainn{
+    margin-left: 80px;
+    height: 100px;
+    width: 450px;
+    color: black;
+}
+#pa{
+    border: 2px  solid black;
+    width: 310px;
+}
+#ra{
+    margin-top: 12px;
+}
